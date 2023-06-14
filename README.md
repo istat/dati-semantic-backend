@@ -1,5 +1,5 @@
-[![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://github.com/teamdigitale/dati-semantic-backend/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/teamdigitale/dati-semantic-backend.svg)](https://github.com/teamdigitale/dati-semantic-backend/issues)
+[![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://github.com/istat/dati-semantic-backend/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/istat/dati-semantic-backend.svg)](https://github.com/istat/dati-semantic-backend/issues)
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 [![18app on forum.italia.it](https://img.shields.io/badge/Forum-18app-blue.svg)](https://forum.italia.it/c/18app-carta-docente)
@@ -42,7 +42,7 @@ The backend is composed:
 - Run service using `docker-compose up` - this starts the service and its dependencies
 
 ## Documentation
-[Wiki](https://github.com/teamdigitale/dati-semantic-backend/wiki)
+[Wiki](https://github.com/istat/dati-semantic-backend/wiki)
 
 # How to contribute
 
@@ -60,4 +60,4 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a great collab
 # License
 
 This work is licensed under the GNU Affero General Public License (AGPL), version 3 or later. You can find a copy of 
-the license in the [LICENSE](https://github.com/teamdigitale/dati-semantic-backend/blob/main/LICENSE) file
+the license in the [LICENSE](https://github.com/istat/dati-semantic-backend/blob/main/LICENSE) file
