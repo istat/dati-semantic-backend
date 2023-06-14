@@ -9,7 +9,7 @@ Before proceeding further, please review our [Code of Conduct](CODE_OF_CONDUCT.m
 
 If you find an issue in the [Schema.got.it](https://www.schema.gov.it)
 website or in this repository, please check if it's already known by searching
-the [issue section](https://github.com/teamdigitale/dati-semantic-backend/issues), otherwise
+the [issue section](https://github.com/istat/dati-semantic-backend/issues), otherwise
 file a new one: we really appreciate it! :rocket:.
 
 You're welcome to contribute to open issues with more information or by adding
